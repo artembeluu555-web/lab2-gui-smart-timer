@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SmartTimerCpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "smart_timer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smart_timer-Debug-d31044a941680538b511.json",
+					"name" : "smart_timer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "smart_timer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smart_timer_autogen-Debug-30723371e35ced6f8468.json",
+					"name" : "smart_timer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "smart_timer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smart_timer_autogen_timestamp_deps-Debug-44ddf36e3576fa233c1b.json",
+					"name" : "smart_timer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Artem/CLionProjects/lab2-gui-smart-timer/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Artem/CLionProjects/lab2-gui-smart-timer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
